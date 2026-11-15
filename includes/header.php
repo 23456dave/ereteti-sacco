@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Ereteti Dairy Sacco</title>
+  <title><?php echo $page_title; ?> - Ereteti Dairy Sacco</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap" rel="stylesheet">
@@ -27,12 +27,12 @@
 
   <nav>
     <ul>
-      <li><a href="index.html">Home</a></li>
-      <li><a href="about.html">About</a></li>
-      <li><a href="routes.html">Routes</a></li>
-      <li><a href="contact.html">Contact</a></li>
-      <li><a href="register.html">Join Us</a></li>
-      <li><a href="deliveries.html">Deliveries</a>
+      <li><a href="index.php">Home</a></li>
+      <li><a href="about.php">About</a></li>
+      <li><a href="routes.php">Routes</a></li>
+      <li><a href="contact.php">Contact</a></li>
+      <li><a href="register.php">Join Us</a></li>
+      <li><a href="deliveries.php">Deliveries</a>
       </li>
     </ul>
   </nav>
