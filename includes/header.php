@@ -11,6 +11,7 @@
   <!-- placeholder: swap for img/favicon.png -->
   <link rel="icon" type="image/png"
         href="/images/favicon-edairy.png">
+        <script src="js/main.js" defer></script>
 </head>
 <body>
 
