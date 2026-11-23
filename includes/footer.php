@@ -11,7 +11,7 @@ a national ID and a bank account.</li>
 </aside>
     <footer>
     <p>Ereteti Dairy Sacco, PO Box 4021, Ngong.</p>
-    <p>Site built by Samuel Musyoka, DBT Year 1, <?php echo date('Y'); ?>.</p>
+    <p>Site built by David Nderitu, DBT Year 1, <?php echo date('Y'); ?>.</p>
 </footer>
 </body>
 
